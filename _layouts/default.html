@@ -43,10 +43,7 @@
       <section>
 
       {{ content }}
-      {% for project in site.projects %}
-- [{{ project.title }} - {{ project.date | date: 'yyyy' }}]({{ project.url | relative_url }})
-- Test
-{% endfor %}
+
     </section>
       <footer>
         {% if site.github.is_project_page %}
