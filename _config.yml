@@ -1,8 +1,4 @@
-title: Simon Niks
-description: Art portfolio of Simon Niks.
+title: Vanina Tsvetkova
 collections:
-  projects:
+  pages:
     output: true
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme

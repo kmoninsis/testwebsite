@@ -1,11 +1,8 @@
 ---
 layout: default
+sketch: background.js
+audio: Creature_sound.mp3
+footers:
+  next: osculator.md
+  prev: null
 ---
-
-This is some text about the works of Simon Niks.
-
-{% for project in site.projects %}
-- [{{ project.title }} - {{ project.date | date: 'yyyy' }}]({{ project.url | relative_url }})
-- Test
-{% endfor %}
-
