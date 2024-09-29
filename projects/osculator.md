@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 sketch: osculator.js
 permalink: /osculator.html
 footers:
