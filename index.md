@@ -3,6 +3,6 @@ layout: default
 sketch: background.js
 audio: Creature_sound.mp3
 footers:
-  next: /projects/osculator.md
+  next: osculator
   prev: null
 ---
