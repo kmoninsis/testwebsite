@@ -1,2 +1,5 @@
 title: Vanina Tsvetkova
-permalink: /:categories/:year/:month/:day/:title:output_ext
+collections:
+  projects:
+    output: true
+    permalink: /:name

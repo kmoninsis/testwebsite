@@ -2,6 +2,6 @@
 layout: default
 sketch: osculator.js
 footers:
-  next: /
+  next: portal
   prev: /
 ---
