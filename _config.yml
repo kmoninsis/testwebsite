@@ -1,4 +1,2 @@
 title: Vanina Tsvetkova
-collections:
-  projects:
-    output: true
+permalink: /:categories/:year/:month/:day/:title:output_ext
