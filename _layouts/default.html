@@ -78,10 +78,10 @@ video{
 	{% assign footer = page.footers %}
 	{% if footer.next %}
 		<a id="totkoR" href="{% link {{ footer.next }} %}"><img src="assets/images/totkoR.png" ></a>
-	{% endfor %}
+	{% endif %}
 	{% if footer.prev %}
 		<a id="totkoL" href="{% link {{ footer.prev }} %}"><img src="assets/images/totko.png" ></a>
-	{% endfor %}
+	{% endif %}
 </footer>
 </body>
 
